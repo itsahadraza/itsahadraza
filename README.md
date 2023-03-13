@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad Raza</h1>
 <h3 align="center">"Always tinkering, always learning"</h3>
-
+<img img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsahadraza&label=Profile%20views&color=0e75b6&style=flat" alt="itsahadraza" /> </p>
 
 - 👯 I’m looking to collaborate on **open source project**
