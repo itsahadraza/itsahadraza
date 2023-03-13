@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsahadraza&label=Profile%20views&color=0e75b6&style=flat" alt="itsahadraza" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itsahadraza" target="blank"><img src="https://img.shields.io/twitter/follow/itsahadraza?logo=twitter&style=for-the-badge" alt="itsahadraza" /></a> </p>
 
 - 🤝 I’m looking to collaborate on **open source project**
 
