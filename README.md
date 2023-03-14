@@ -3,8 +3,6 @@
 <img img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsahadraza&label=Profile%20views&color=0e75b6&style=flat" alt="itsahadraza" /> </p>
 
-- 👯 I’m looking to collaborate on **open source project**
-
 - 🤝 I’m looking to collaborate on **open source project**
 
 - 📫 How to reach me **itsahadraza@gmail.com**
